@@ -26,9 +26,9 @@ _"Turning coffee into code and ideas into reality."_
 
 ## 📈 GitHub Stats
 
-![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsalmehta163&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalmehta163&layout=compact&hide_border=true)
 
 ## 🏆 Achievements
 
