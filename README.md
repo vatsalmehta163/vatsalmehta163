@@ -4,7 +4,7 @@ Gen AI | Machine Learning | Deep Learning | Data Science | Big Data | Prompt Eng
 _"Turning coffee into code and ideas into reality."_
 
 ## 👨‍💻 About Me
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Fuc3hiZnZycWh4eG55YXE5ZGpkODZzNzRwZTcyc3oydHd5c2pkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp))
 - 🌱 I’m currently pursuing **Bachelor's of Engineering in Artificial Intelligence and Data Science**
 - 👯 I’m looking to collaborate on **Machine Learning/Deep Learning/Data Analysis/Data Visualization**
 - 📫 How to reach me: [vatsalmehta163@gmail.com](mailto:vatsalmehta163@gmail.com)
