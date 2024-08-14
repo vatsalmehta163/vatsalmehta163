@@ -4,16 +4,14 @@ Gen AI | Machine Learning | Deep Learning | Data Science | Big Data | Prompt Eng
 _"Turning coffee into code and ideas into reality."_
 
 ## 👨‍💻 About Me
-
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 - 🌱 I’m currently pursuing **Bachelor's of Engineering in Artificial Intelligence and Data Science**
 - 👯 I’m looking to collaborate on **Machine Learning/Deep Learning/Data Analysis/Data Visualization**
 - 📫 How to reach me: [vatsalmehta163@gmail.com](mailto:vatsalmehta163@gmail.com)
 
-![Profile views](https://gpvc.arturio.dev/yourusername)
+![Profile views](https://gpvc.arturio.dev/vatsalmehta163)
 
-## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/vatsal163)](https://www.linkedin.com/in/vatsal163)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/yourusername)](https://www.instagram.com/vatsalmehta__)
+
 
 ## 🔧 Technologies & Tools
 
@@ -53,4 +51,4 @@ _"Turning coffee into code and ideas into reality."_
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/vatsal163)](https://www.linkedin.com/in/vatsal163)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&link=https://www.instagram.com/yourusername)](https://www.instagram.com/vatsalmehta__)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/yourusername)](https://www.instagram.com/vatsalmehta__)
