@@ -8,7 +8,7 @@ _"Turning coffee into code and ideas into reality."_
 
 - 🌱 I’m currently pursuing **Bachelor's of Engineering in Artificial Intelligence and Data Science**
 - 👯 I’m looking to collaborate on **Machine Learning/Deep Learning/Data Analysis/Data Visualization**
-- 📫 How to reach me: [vatsalmehta163@gmail.com](mailto:vatsalmehta163@gmail.com)
+
 
 ## 🔧 Technologies & Tools
 
