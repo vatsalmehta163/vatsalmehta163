@@ -1,5 +1,5 @@
 # Hi there, I'm Vatsal Mehta. 👋
-
+Gen AI | Machine Learning | Deep Learning | Data Science | Big Data | Prompt Engineering
 <!-- Optional: add a cool quote or a tagline here -->
 _"Turning coffee into code and ideas into reality."_
 
@@ -8,6 +8,12 @@ _"Turning coffee into code and ideas into reality."_
 - 🌱 I’m currently pursuing **Bachelor's of Engineering in Artificial Intelligence and Data Science**
 - 👯 I’m looking to collaborate on **Machine Learning/Deep Learning/Data Analysis/Data Visualization**
 - 📫 How to reach me: [vatsalmehta163@gmail.com](mailto:vatsalmehta163@gmail.com)
+
+![Profile views](https://gpvc.arturio.dev/yourusername)
+
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/vatsal163)](https://www.linkedin.com/in/vatsal163)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/yourusername)](https://www.instagram.com/vatsalmehta__)
 
 ## 🔧 Technologies & Tools
 
@@ -19,9 +25,12 @@ _"Turning coffee into code and ideas into reality."_
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=machine-learning)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat&logo=deep-learning)
-![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 ![Big Data](https://img.shields.io/badge/-Big%20Data-333333?style=flat&logo=big-data)
-
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=pytorch)
+![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apache-hadoop)
 ## 📈 GitHub Stats
 
 ![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsalmehta163&show_icons=true&hide_border=true)
