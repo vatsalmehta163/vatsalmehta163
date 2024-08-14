@@ -8,8 +8,6 @@ _"Turning coffee into code and ideas into reality."_
 - 🌱 I’m currently pursuing **Bachelor's of Engineering in Artificial Intelligence and Data Science**
 - 👯 I’m looking to collaborate on **Machine Learning/Deep Learning/Data Analysis/Data Visualization**
 - 📫 How to reach me: [vatsalmehta163@gmail.com](mailto:vatsalmehta163@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Insert Fun Fact]
 
 ## 🔧 Technologies & Tools
 
@@ -39,11 +37,11 @@ _"Turning coffee into code and ideas into reality."_
 
 ## 💼 Projects & Publications
 
-- **Project 1:** [Project Title](https://github.com/yourusername/project-repo) - Brief description of the project.
-- **Project 2:** [Project Title](https://github.com/yourusername/project-repo) - Brief description of the project.
-- **Publication 1:** [Publication Title](https://yourpublicationlink.com) - Brief description of the publication.
-- **Publication 2:** [Publication Title](https://yourpublicationlink.com) - Brief description of the publication.
+- **Project 1:** [Prediction of Lung cancer using Artificial Neural Network](https://github.com/vatsalmehta163/Lung-cancer-prediction-using-ANN.git)
+- **Project 2:** [Prediction of Thyroid cancer using Machine learning algorithms and XAI](https://github.com/vatsalmehta163/thyroidcancer.git) 
+- **Publication 1:** [Forecasting Airline Customer Satisfaction through the Application of Diverse Machine Learning Algorithms](https://ieeexplore.ieee.org/abstract/document/10543367/authors#authors) 
 
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/vatsal163)](https://www.linkedin.com/in/vatsal163)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&link=https://www.instagram.com/yourusername)](https://www.instagram.com/vatsalmehta__)
